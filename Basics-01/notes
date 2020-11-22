@@ -1,0 +1,13 @@
+--> JavaScript is Case Sensitive.
+--> Try to use camelCase.
+
+--> variables start with lowercase letter.
+        var greenDuck;
+
+--> Objects and classes start with uppercase letter.
+        var date = new Date();
+
+--> constants are all-caps.
+        const = NUMBERCAPS
+
+--> End each statement with a semicolon.
