@@ -1,0 +1,8 @@
+Three Types of Functions:
+1. Named Functions
+2. Anonymous Functions
+3. Immediately invoked function expressions
+
+Two types of new variables:
+1. const --> to assign constant value. once assigned we cannot change. it will throw typeError.
+2. let --> to handle variables in scopes.

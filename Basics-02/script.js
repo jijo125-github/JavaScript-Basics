@@ -29,8 +29,8 @@ pens.push("pink", "prussian blue");
 console.log("Append to last", pens)
 
 // Find the specified position (pos) and remove n number of items from the array. Arguments: pens.splice(pos,n):
-const pos = 2
-const n = 2
+var pos = 2
+var n = 2
 pens.splice(pos, n) // Starts at the seccond item and removes two items.
 console.log(pens)
 // console.log("After: ", pens);
@@ -40,7 +40,7 @@ var newPens = pens.slice();
 console.log("New pens: ", newPens);
 
 // Return the first element that matches the search parameter after the specified index position. Defaults to index position 0. Arguments: pens.indexOf(search, index):
-const index = 1
+var index = 1
 var search = "pink"
 var result = pens.indexOf(search, index);
 console.log("The search result index is: ", result);
