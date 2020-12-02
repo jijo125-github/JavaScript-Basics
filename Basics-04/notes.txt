@@ -1,0 +1,9 @@
+Some info about dot notation and bracket notation..
+
+dot notation is used like -->       course.title;
+bracket notation is used like -->   course["title"];
+
+both are same but dot notation doesn't work properly in some cases where a property is kind of --> wg:image
+
+Here we can access this property in this way -->    course["wg:image"]
+dot notation won't work well for the above property and it will throw error.

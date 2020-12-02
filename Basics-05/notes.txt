@@ -1,0 +1,4 @@
+1. What is a JavaScript closure function?
+--> Closure means that an inner function always has access to the vars and parameters of its outer function, 
+even after the outer function has returned. You have learned that we can create nested functions in JavaScript. ... 
+This is called Closure. A function can return another function in JavaScript.
